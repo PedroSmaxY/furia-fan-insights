@@ -173,5 +173,9 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 
+# IDEA project files
+.idea/
+
 # Data from users
 data/
+*.db
